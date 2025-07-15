@@ -158,13 +158,6 @@ python dsaproject/test/test_student_service.py
 | Delete | O(log n) | O(n) | O(1) | O(1) |
 | Undo | N/A | N/A | O(1) | N/A |
 
-## Future Enhancements
-
-- **Hash Table**: For O(1) name-based lookups
-- **Heap**: For priority-based student selection
-- **Trie**: For autocomplete functionality
-- **B-Tree**: For handling larger datasets
-- **Graph**: For modeling student relationships
 
 ## Contributing
 
