@@ -14,6 +14,7 @@
 
 3. Run the app:
    ```bash
+   cd dsaproject
    python -m src.ui.app
    ```
 
